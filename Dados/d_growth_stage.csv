@@ -1,0 +1,7 @@
+id;type;name
+1;"vegetative";"VEGETATIVO"
+2;"pre_harvest";"PRÉ-COLHEITA"
+3;"post_harvest";"POUSIO"
+4;"pre_planting";"PRÉ-PLANTIO"
+5;"post_planting";"PÓS-PLANTIO"
+6;"reproductive";"REPRODUTIVO"
